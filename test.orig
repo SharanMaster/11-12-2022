@@ -1,15 +1,13 @@
 1
 2
-<<<<<<< HEAD
 3
 4
-
-
-
-
-
-
-
-
+5
+for stash
+for merge
+for rebase
+<<<<<<< HEAD
 =======
->>>>>>> ee9061d (second)
+for rebase 2
+>>>>>>> e87ad50 (cherry-pick commit)
+
