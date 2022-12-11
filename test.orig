@@ -7,6 +7,7 @@ for stash
 for merge
 for rebase
 <<<<<<< HEAD
-for rebase 2
 =======
->>>>>>> feature1
+for rebase 2
+>>>>>>> e87ad50 (cherry-pick commit)
+
