@@ -6,7 +6,5 @@
 for stash
 for merge
 for rebase
-<<<<<<< HEAD
 for rebase 2
-=======
->>>>>>> feature1
+
